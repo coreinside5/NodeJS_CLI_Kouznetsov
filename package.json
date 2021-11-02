@@ -1,6 +1,6 @@
 {
   "name": "@npminside/nodejs_cli_kouznetsov",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "java cli exercice with holy days",
   "main": "index.js",
   "bin": {
