@@ -4,6 +4,7 @@
   "bin": "./index.js",
   "description": "java cli exercice with holy days",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -19,7 +20,9 @@
   "homepage": "https://github.com/coreinside5/NodeJS_CLI_Kouznetsov#readme",
   "dependencies": {
     "axios": "^0.24.0",
+    "chalk": "^4.1.2",
     "country-list": "^2.2.0",
-    "node-fetch": "^3.0.0"
+    "node-fetch": "^3.0.0",
+    "readline-sync": "^1.4.10"
   }
 }
