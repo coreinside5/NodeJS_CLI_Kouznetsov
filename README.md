@@ -6,6 +6,6 @@ Exercice command line java avec jours feries:
 ![run cli](holidates/run.png)
 3. Enter year and country, NORMALLY there is input control 
 ![run cli](holidates/input.png)
-4. Envoy colors 
+4. Enjoy colors 
 ![run cli](holidates/result.png)
 
