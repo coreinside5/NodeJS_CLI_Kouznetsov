@@ -1,12 +1,8 @@
-#!/usr/bin/env node;
+#!/usr/bin/env node
 import fetch from 'node-fetch';
 import { getCode, getName } from 'country-list';
 import chalk from 'chalk';
 import readlineSync from 'readline-sync';
-//import figlet from 'figlet';
-//import ora from 'ora';
-
-
 
 
 console.clear();  
@@ -21,7 +17,6 @@ while (countryName == undefined){
     console.log(chalk.yellow(`Year is  ${year}`));
     countryName = getCode(readlineSync.question(chalk.yellow("Bad input, reenter country name :")));   
 } 
-
 
    async function GetFest(paramYear, paramCN){
        try{

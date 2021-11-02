@@ -1,9 +1,11 @@
 {
-  "name": "nodejs_cli_kouznetsov",
+  "name": "@npminside/nodejs_cli_kouznetsov",
   "version": "1.0.0",
-  "bin": "./index.js",
   "description": "java cli exercice with holy days",
   "main": "index.js",
+  "bin": {
+    "holidates": "./index.js"
+  },
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
