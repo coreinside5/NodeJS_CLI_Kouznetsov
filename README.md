@@ -1,11 +1,11 @@
 # NodeJS_CLI_Kouznetsov
 Exercice command line java avec jours feries:
 
-<ol>
-  <li>Install package npm i @npminside/nodejs_cli_kouznetsov </li>
-  <li>Run holidates from your terminal ![run cli](holidates/input.png)</li>
-  <li>Enter year and country, NORMALLY there is input control</li>
-  <li>Enjoy colors</li>
-</ol> 
-
+1. Install package npm i @npminside/nodejs_cli_kouznetsov
+2. Run holidates from your terminal  
+![run cli](holidates/run.png)
+3. Enter year and country, NORMALLY there is input control 
+![run cli](holidates/input.png)
+4. Envoy colors 
+![run cli](holidates/result.png)
 
